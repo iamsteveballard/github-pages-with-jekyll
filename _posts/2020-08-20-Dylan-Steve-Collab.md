@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Why we should work together"
+date: 2020-08-20
 ---
 
 Collaboration is the greatest. 
