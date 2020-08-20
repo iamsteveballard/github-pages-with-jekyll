@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Dylan and Steve Collaboration Test
 
-I'm glad you are here. I plan to talk about ...
+Hey Dylan, I'm setting up GitHub Pages and am going to add you as a collaborator. Please send me your username. 
