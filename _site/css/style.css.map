@@ -1,12 +1,7 @@
 {
-	"version": 3,
-	"file": "style.css",
-	"sources": [
-		"style.scss"
-	],
-	"sourcesContent": [
-		"$theme-color: blue;\r\n$p-margin-style: 60px;\r\n\r\nhtml {\r\n  color: red;\r\n  background-color: blue;\r\n}\r\n\r\nheader {\r\n  color: $theme-color;\r\n}\r\n\r\nfooter {\r\n  color: green;\r\n}\r\n\r\nbutton {\r\n  background-color:pink;\r\n}\r\n"
-	],
-	"names": [],
-	"mappings": "AAGA,AAAA,IAAI,CAAC,EACH,KAAK,EAAE,GAAG,EACV,gBAAgB,EAAE,IAAI,GACvB;;AAED,AAAA,MAAM,CAAC,EACL,KAAK,EATO,IAAI,GAUjB;;AAED,AAAA,MAAM,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;AAED,AAAA,MAAM,CAAC,EACL,gBAAgB,EAAC,IAAI,GACtB"
+"version": 3,
+"mappings": "AAEA,IAAK;EACH,KAAK,EAAE,GAAG;EACV,gBAAgB,EAAE,IAAI;;AAGxB,MAAO;EACL,KAAK,EARO,IAAI;;AAWlB,MAAO;EACL,KAAK,EAAE,KAAK;;AAGd,MAAO;EACL,gBAAgB,EAAC,IAAI",
+"sources": ["style.scss"],
+"names": [],
+"file": "style.css"
 }

@@ -1,9 +1,14 @@
-html { color: red; background-color: blue; }
+html {
+  color: red;
+  background-color: blue; }
 
-header { color: blue; }
+header {
+  color: blue; }
 
-footer { color: green; }
+footer {
+  color: green; }
 
-button { background-color: pink; }
+button {
+  background-color: pink; }
 
 /*# sourceMappingURL=style.css.map */
