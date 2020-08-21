@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagetest
 title: "SCSS styling test"
 date: 2020-08-21
 ---
